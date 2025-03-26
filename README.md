@@ -1,5 +1,5 @@
 # sigma
  
-Pure Python for backtesting different tickers with different SMA crossover timeframes
+#Pure Python for backtesting different tickers with different SMA crossover timeframes
 
-Uses Streamlit for UI functions
+#Uses Streamlit for UI functions
